@@ -4,4 +4,4 @@ Note: Blaze Generation GFL2 (Lewis, Sakura, Loreley, Ots-14 Burn Mode) has been 
 3. Changes format when selecting V6 Lewis to account for her unique synergy with Extra Action units. 
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0ce725d9-ab30-47f1-b6fd-f9c3eb75d417" />
+<img width="1239" height="348" alt="image" src="https://github.com/user-attachments/assets/7c164f09-704c-421d-975e-cebc895826b4" />
