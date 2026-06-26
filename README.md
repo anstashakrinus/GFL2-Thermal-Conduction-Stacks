@@ -1,7 +1,14 @@
-Note: Blaze Generation GFL2 (Lewis, Sakura, Loreley, Ots-14 Burn Mode) has been updated, Changes: 
+Note: This Excel Sheet is designed to calculate the amount of Searing Flame (SF) generation your team does, can calculate individual unit's blaze generation and Ember/Glowing Ember (GE) uptime.
+Current Thermal Conduction (Blaze Generator) units: 1. Lewis, Sakura, Loreley, Groza Burn Mode.
+
+Changes: 
 1. Added Groza Alter (Ots-14) burn mode Blaze Generation Calculation.
-2. Fixed blaze (SF) stack miscalculation for Loreley V1
-3. Changes format when selecting V6 Lewis to account for her unique synergy with Extra Action units. 
+2. Changes format when selecting V6 Lewis to account for her unique synergy with Extra Action units. 
+3. Fixed Loreley V1 Blaze Stack generation
 
+Future plans: 
+1. Rotation Options: To account for Lewis Expansion Key and Sakura's Flexible Rotation, I plan on making additional skill rotation options for them to give an accurate representation of their SF stack generation.
+2. Team Rotation Builder: To give an accurate representation of individual Ember/Glowing Ember (GE) uptime for individual units.
 
-<img width="1300" height="341" alt="image" src="https://github.com/user-attachments/assets/69fb7b70-3a68-417e-986a-e293e4193598" />
+<img width="1277" height="416" alt="image" src="https://github.com/user-attachments/assets/f115f9b9-834b-486f-ae4d-b4833591829a" />
+
